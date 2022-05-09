@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# React Complete Intro
+My notes and attempts to run the examples within [The Complete Intro to React](https://jscomplete.com/learn/complete-intro-react)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
